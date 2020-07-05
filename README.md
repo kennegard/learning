@@ -6,6 +6,7 @@
 </p>
 
 ### Programming Skilz
+- [ ] [Study: Python Koans](https://github.com/gregmalcolm/python_koans)
 - [ ] [Book: Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python)
 
 ### Broaden Perspective

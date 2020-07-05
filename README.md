@@ -10,6 +10,7 @@
 - [ ] [Book: Distributed Computing with Python](https://www.packtpub.com/big-data-and-business-intelligence/distributed-computing-python)
 
 ### Broaden Perspective
+- [ ] [Book: The Changing World Order - Ray Dalio](https://www.principles.com/the-changing-world-order/#introduction)
 - [ ] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [ ] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [ ] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
